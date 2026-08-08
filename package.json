@@ -1,0 +1,24 @@
+{
+  "name": "tabnewsalex",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Alexandre21Farias/TabNewsAlex#readme",
+  "bugs": {
+    "url": "https://github.com/Alexandre21Farias/TabNewsAlex/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexandre21Farias/TabNewsAlex.git"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "test"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
